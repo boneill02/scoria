@@ -22,10 +22,6 @@ All you need to do to get this running is run "scoria.sh" in your shell
  * Suggest features
  * Submit a pull request
 
-## Authors
-
-Benjamin O'Neill (https://gitlab.com/swegbun)
-
 ## License
 
 This project is licensed under the MIT license. Check the LICENSE file for more information.
